@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.javapractice.switcase;
+package com.ohgiraffers.section01.javapractice.switcase_practice;
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ public class Switch_case_practice {
 
         switch (num) {
 
-            case 10:
+            case 10 :
                 grade = 'A';
                 break;
             case 9 :

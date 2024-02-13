@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.javapractice.switcase;
+package com.ohgiraffers.section01.javapractice.switcase_practice;
 
 import java.util.Scanner;
 
@@ -40,9 +40,11 @@ public class If_else_switch_case_practice_season {
                 case 1 :
                     fourseasons = "봄";
                     break;
+
                 case 2 :
                     fourseasons = "여름";
                     break;
+
                 case 3:
                     fourseasons = "가을";
                     break;
